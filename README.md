@@ -13,7 +13,7 @@ Reading Code is hard, then understanding it makes it more difficult. The Explain
 Imagine having a project that needs to be done in a short time or it’s deadline is coming closer, that would be a nightmare for anyone but this might be a good dream with the help of Jarvis if most of the work could be done using this.
 Using natural language processing and artificial intelligence, Jarvis takes a description of your problem as an input and generates actual code that solves these problems.
 
-\!\[Generate Code\]\(images\generatecode.jpg\)
+![Generate Code](\generatecode.jpg\)
 
 3.	Language Translator
 As the name suggest, this feature is used to translate code from one programming language to another. 
