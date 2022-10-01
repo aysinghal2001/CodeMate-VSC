@@ -7,7 +7,7 @@ Jarvis assists developers with day-to-day activities like finding out time compl
 Reading Code is hard, then understanding it makes it more difficult. The Explain Code feature of Jarvis explains to them what their code actually does in plain English
 
 
-\!\[Explain Code\]\(\explaincode.jpg\)
+\!\[Explain Code\]\(https://i.postimg.cc/3xNQYY3k/bugfixer.jpg)
 
 2.	Generate Code
 Imagine having a project that needs to be done in a short time or it’s deadline is coming closer, that would be a nightmare for anyone but this might be a good dream with the help of Jarvis if most of the work could be done using this.
