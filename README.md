@@ -1,6 +1,6 @@
 ## JARVIS README
 
-Jarvis assists developers with day-to-day activities like finding out time complexity of their program in big O notation, explaining the code to them, helping them in translating from one coding language to another in a snap of fingers, fixing their buggy code, getting the auto generated documentation or commenting of their code, etc. The user statements/commands are analyzed with the help of Artificial Intelligence to give an optimal solution. 
+Jarvis assists developers with day-to-day activities like finding out time complexity of their program in big O notation, explaining the code to them, helping them in translating from one coding language to another in a snap of fingers, fixing their buggy code, getting the auto generated documentation or commenting of their code, etc. The user statements or commands are analyzed with the help of Artificial Intelligence to give an optimal solution. 
 ## Features
 
 1.	Explain Code: 
